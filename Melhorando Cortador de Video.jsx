@@ -1,7 +1,7 @@
 ﻿
 var file1 = "C:\\Gravações\\2023\\Novembro\\13 habitos que revelam personalidade - 2023-11-07 15-16-52_RAW.mp4";
 var nomeDoTrabalho = "MD-025 13 habitos que revelam personalidade";
-
+ 
 var removeDualAudioTracks = false;
 
 var cortes = [
